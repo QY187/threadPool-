@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\VS小项目\线程池Plus\threadpool.h(77,17): warning C4018: “>”: 有符号/无符号不匹配
+D:\VS小项目\线程池Plus\main.cpp(30,25): message : 查看对正在编译的函数 模板 实例化“std::future<int> ThreadPool::submitTask<int(__cdecl &)(int,int),int,int>(Func,int,int)”的引用
+          with
+          [
+              Func=int (__cdecl &)(int,int)
+          ]
+  线程池Plus.vcxproj -> D:\VS小项目\线程池Plus\x64\Debug\线程池Plus.exe
